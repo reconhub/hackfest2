@@ -546,6 +546,10 @@ font-weight: 700;
   background: url("../images/participants/dean-attali.jpg") no-repeat;
   background-size: cover; }
 
+.isobel-blake .participant-image {
+  background: url("../images/participants/isobel-blake.jpg") no-repeat;
+  background-size: cover; }
+
 .dirk-schumacher .participant-image {
   background: url("../images/participants/dirk-schumacher.jpg") no-repeat;
   background-size: cover; }
